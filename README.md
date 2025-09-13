@@ -1,6 +1,6 @@
 # VSCode Copilot Extention Template
 
-This repository contains a template for creating custom code assist agentsfor your VSCode Copilot Extention.
+This repository contains templates for creating custom code assist agents for your VSCode Copilot Extention.
 
 ## Setup
 
